@@ -1,2 +1,2 @@
 # minor2
-website
+HTML,CSS,JS,PHP,MySQL - A Meditation Website
