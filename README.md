@@ -1,5 +1,7 @@
 Voice-Guided Meditation Website ‘EurhythmicMind’
 
+YouTube Presentation Link - http://bit.ly/trubaminor 
+
 "EurhythmicMind Website -A voice guided mindfulness experience" brings a completely new way to meditate. Integration of various technology made it possible to make a fluid and pleasant experience to the end user. When a user visits the website, an easy sign-up/login form is given for authorization. After login user is provided with easy to navigate panels and a dozen choices for meditation to choose from. After this user just needs to devote his/her 10 minutes to complete mindfulness. The user will periodically be notified about meditation and how to be mindful.
 
 ![screenshot 59](https://user-images.githubusercontent.com/38378916/46885934-0976a280-ce77-11e8-95e8-55c0a0c0549d.png)
